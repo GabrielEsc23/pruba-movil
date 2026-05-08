@@ -1,0 +1,62 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Deezer App
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <ion-searchbar
+    placeholder="Buscar música..."
+    (ionInput)="buscar($event)">
+  </ion-searchbar>
+
+  @if(loading){
+
+    <div class="ion-text-center">
+      <ion-spinner></ion-spinner>
+    </div>
+
+  }
+
+  @for(cancion of canciones; track cancion.id){
+
+    <ion-card>
+
+      <img [src]="cancion.album.cover_medium">
+
+      <ion-card-header>
+        <ion-card-title>
+          {{ cancion.title }}
+        </ion-card-title>
+      </ion-card-header>
+
+      <ion-card-content>
+
+        <p>
+          Artista:
+          {{ cancion.artist.name }}
+        </p>
+
+        <audio controls
+          [src]="cancion.preview">
+        </audio>
+        <br>
+
+  <ion-button
+    expand="block"
+    (click)="verDetalle(cancion)">
+
+    Ver detalle
+
+  </ion-button>
+
+      </ion-card-content>
+
+    </ion-card>
+
+  }
+
+</ion-content>

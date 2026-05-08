@@ -1,0 +1,40 @@
+<ion-content class="ion-padding">
+
+  <ion-card>
+
+    <img [src]="cancion.album.cover_big">
+
+    <ion-card-header>
+      <ion-card-title>
+        {{ cancion.title }}
+      </ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+
+      <p>
+        <strong>Artista:</strong>
+        {{ cancion.artist.name }}
+      </p>
+
+      <p>
+        <strong>Álbum:</strong>
+        {{ cancion.album.title }}
+      </p>
+
+      <p>
+        <strong>Duración:</strong>
+        {{ cancion.duration }} segundos
+      </p>
+
+      <br>
+
+      <audio controls
+        [src]="cancion.preview">
+      </audio>
+
+    </ion-card-content>
+
+  </ion-card>
+
+</ion-content>

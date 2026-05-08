@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Cámara
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+
+  <ion-button
+    expand="block"
+    (click)="tomarFoto()">
+
+    Tomar Foto
+
+  </ion-button>
+
+  @if(foto){
+
+    <ion-card>
+
+      <ion-card-content>
+
+        <img [src]="foto">
+
+      </ion-card-content>
+
+    </ion-card>
+
+  }
+
+</ion-content>

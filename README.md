@@ -55,26 +55,33 @@ Luego ejecutar desde Android Studio.
 
 
 🔹 Icono de la aplicación
-![Logo](https://githubusercontent.com)
+
+![Logo](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/logo.png)
 
 🔹 Splash Screen
-![Splash screen](https://githubusercontent.com)
+![Splash screen](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/splash-screen.png)
 
 🔹 Login y Registro
-![Registro](https://githubusercontent.com)
-![Login](https://githubusercontent.com)
 
-🔹 Tab 1 - Consumo API Deezer (Búsqueda)
-![Buscar canción](https://githubusercontent.com)
+![Registro](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/registro.png)
+
+
+🔹 Tab 1 - Consumo API Deezer
+
+🔹 Resultado búsqueda de música
+![Buscar canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/nombre_cancion.png)
 
 🔹 Detalle de canción
-![Detalle canción](https://githubusercontent.com)
+![Detalle canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/detalle_cancion.png)
 
-🔹 Tab 2 - Cámara y Foto tomada
-![Foto almacenada](https://githubusercontent.com)
+🔹 Tab 2 - Cámara (abierta)
+![Login](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/login.png)
+
+🔹 Foto tomada
+![Foto almacenada](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/foto_alamacenada.png)
 
 🔹 Tab 3 - Cerrar sesión
-![Cerrar sesión](https://githubusercontent.com)
+![Cerrar sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
 
 
 🤖 Uso de IA:

@@ -31,7 +31,6 @@
 ---
 
 ## 📦 Instrucciones de instalación:
-![Cierre de sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
 
 1. Clonar el repositorio:
 ```bash
@@ -51,6 +50,7 @@ npx cap sync android
 npx cap open android
 
 Luego ejecutar desde Android Studio.
+```
 
 📸 Capturas del proyecto:
 
@@ -102,6 +102,7 @@ Luego ejecutar desde Android Studio.
 
 ## 🔹 Tab 3 - Cerrar sesión
 ![Cierre de sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
+
 🤖 Uso de IA:
 Prompts utilizados:
 “Cómo consumir API de Deezer en Ionic Angular”

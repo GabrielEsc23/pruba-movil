@@ -51,10 +51,6 @@ npx cap open android
 
 Luego ejecutar desde Android Studio.
 ```
-
-📸 Capturas del proyecto:
-
-
 ---
 
 ## 📸 Capturas del proyecto
@@ -62,7 +58,7 @@ Luego ejecutar desde Android Studio.
 ---
 
 ### 🔹 Icono de la aplicación
-![Logo](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/logo.png)
+![Logo](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/logo.png)
 
 ---
 

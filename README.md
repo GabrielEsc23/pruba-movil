@@ -31,6 +31,7 @@
 ---
 
 ## 📦 Instrucciones de instalación:
+![Cierre de sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
 
 1. Clonar el repositorio:
 ```bash

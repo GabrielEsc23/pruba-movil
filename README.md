@@ -56,49 +56,51 @@ Luego ejecutar desde Android Studio.
 
 ---
 
+## 📸 Capturas del proyecto
+
+---
+
 ### 🔹 Icono de la aplicación
-![Logo](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/logo.png)
+![Logo](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/logo.png)
 
 ---
 
 ### 🔹 Splash Screen
-![Splash screen](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/splash-screen.png)
+![Splash screen](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/splash-screen.png)
 
 ---
 
 ### 🔹 Login y Registro
-![Registro](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas-prueba1/registro.png)
+![Registro](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas-prueba1/registro.png)
 
 ---
 
 ## 🔹 Tab 1 - Consumo API Deezer
 
 ### 🔸 Resultado búsqueda de música
-![Buscar canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/nombre_cancion.png)
+![Buscar canción](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/nombre_cancion.png)
 
 ---
 
 ### 🔸 Detalle de canción
-![Detalle canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/detalle_cancion.png)
+![Detalle canción](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/detalle_cancion.png)
 
 ---
 
 ## 🔹 Tab 2 - Cámara
 
 ### 🔸 Cámara abierta
-![Login](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/login.png)
+![Cámara](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/login.png)
 
 ---
 
 ### 🔸 Foto tomada
-![Foto almacenada](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/foto_alamacenada.png)
+![Foto almacenada](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/foto_alamacenada.png)
 
 ---
 
 ## 🔹 Tab 3 - Cerrar sesión
-![Cerrar sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
-
-
+![Cerrar sesión](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/cierre_sesion.png)
 🤖 Uso de IA:
 Prompts utilizados:
 “Cómo consumir API de Deezer en Ionic Angular”

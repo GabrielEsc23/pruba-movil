@@ -100,7 +100,7 @@ Luego ejecutar desde Android Studio.
 ---
 
 ## 🔹 Tab 3 - Cerrar sesión
-![Cerrar sesión](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/cierre_sesion.png)
+![Cierre de sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
 🤖 Uso de IA:
 Prompts utilizados:
 “Cómo consumir API de Deezer en Ionic Angular”

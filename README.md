@@ -68,7 +68,7 @@ Luego ejecutar desde Android Studio.
 ---
 
 ### 🔹 Login y Registro
-![Registro](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas-prueba1/registro.png)
+![Registro](https://github.com/GabrielEsc23/pruba-movil/raw/main/capturas_prueba1/registro.png)
 
 ---
 

@@ -52,34 +52,16 @@ npx cap open android
 Luego ejecutar desde Android Studio.
 
 📸 Capturas del proyecto:
-🔹 Icono de la aplicación
+📸 Capturas del proyecto:
 
-![Logo](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/logo.png)
-
-🔹 Splash Screen
-![Splash screen](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/splash-screen.png)
-
-🔹 Login y Registro
-
-![Registro](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas-prueba1/registro.png)
-
-
-🔹 Tab 1 - Consumo API Deezer
-
-🔹 Resultado búsqueda de música
-![Buscar canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/nombre_cancion.png)
-
-🔹 Detalle de canción
-![Detalle canción](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/detalle_cancion.png)
-
-🔹 Tab 2 - Cámara (abierta)
-![Login](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/login.png)
-
-🔹 Foto tomada
-![Foto almacenada](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/foto_alamacenada.png)
-
-🔹 Tab 3 - Cerrar sesión
-![Cerrar sesión](https://raw.githubusercontent.com/GabrielEsc23/pruba-movil/main/capturas_prueba1/cierre_sesion.png)
+🔹 Icono: ![Logo](https://githubusercontent.com)
+🔹 Splash: ![Splash](https://githubusercontent.com)
+🔹 Registro: ![Registro](https://githubusercontent.com)
+🔹 Búsqueda: ![Búsqueda](https://githubusercontent.com)
+🔹 Detalle: ![Detalle](https://githubusercontent.com)
+🔹 Login: ![Login](https://githubusercontent.com)
+🔹 Foto: ![Foto](https://githubusercontent.com)
+🔹 Logout: ![Logout](https://githubusercontent.com)
 
 🤖 Uso de IA:
 Prompts utilizados:

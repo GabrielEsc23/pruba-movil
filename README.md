@@ -54,6 +54,8 @@ Luego ejecutar desde Android Studio.
 📸 Capturas del proyecto:
 🔹 Icono de la aplicación
 
+![Icono](https://github.com/GabrielEsc23/pruba-movil/blob/main/capturas_prueba1/logo.png)
+
 🔹 Splash Screen
 
 🔹 Login y Registro

@@ -52,16 +52,30 @@ npx cap open android
 Luego ejecutar desde Android Studio.
 
 📸 Capturas del proyecto:
-📸 Capturas del proyecto:
 
-🔹 Icono: ![Logo](https://githubusercontent.com)
-🔹 Splash: ![Splash](https://githubusercontent.com)
-🔹 Registro: ![Registro](https://githubusercontent.com)
-🔹 Búsqueda: ![Búsqueda](https://githubusercontent.com)
-🔹 Detalle: ![Detalle](https://githubusercontent.com)
-🔹 Login: ![Login](https://githubusercontent.com)
-🔹 Foto: ![Foto](https://githubusercontent.com)
-🔹 Logout: ![Logout](https://githubusercontent.com)
+
+🔹 Icono de la aplicación
+![Logo](https://githubusercontent.com)
+
+🔹 Splash Screen
+![Splash screen](https://githubusercontent.com)
+
+🔹 Login y Registro
+![Registro](https://githubusercontent.com)
+![Login](https://githubusercontent.com)
+
+🔹 Tab 1 - Consumo API Deezer (Búsqueda)
+![Buscar canción](https://githubusercontent.com)
+
+🔹 Detalle de canción
+![Detalle canción](https://githubusercontent.com)
+
+🔹 Tab 2 - Cámara y Foto tomada
+![Foto almacenada](https://githubusercontent.com)
+
+🔹 Tab 3 - Cerrar sesión
+![Cerrar sesión](https://githubusercontent.com)
+
 
 🤖 Uso de IA:
 Prompts utilizados:
